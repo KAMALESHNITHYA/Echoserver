@@ -91,7 +91,9 @@ httpd.serve_forever()
 
 ### CLIENT AND SERVER OUTPUT : 
                                                                                                                       
-<img width="1866" height="984" alt="Screenshot 2025-08-11 034829" src="https://github.com/user-attachments/assets/33334f15-935a-48e4-9fff-72debbcbb8f6" />
+<img width="1920" height="1080" alt="Screenshot (627)" src="https://github.com/user-attachments/assets/ff3b863a-838a-48a1-9e80-2c2464e4f26f" />
+<br>
+<img width="1920" height="1080" alt="Screenshot (628)" src="https://github.com/user-attachments/assets/9052d69b-4a57-4f27-aeef-7f78974785d2" />
 
 
 
